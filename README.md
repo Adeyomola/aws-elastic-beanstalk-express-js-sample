@@ -1,12 +1,11 @@
-# AWS Elastic Beanstalk Node.js Sample App
+# Continuous Integration and Continuous Delivery Using AWS CodeBuild, AWS CodePipeline, and AWS BeanStalk
 
-This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
+This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path. It also contains a buildspec for the same Node.js web app.
 
-## Security
+## Pipeline Automation with AWS CodePipeline
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+## Build and Test with AWS CodeBuild
 
-## License
+## Continuous Delivery - Manual Review
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+## Deployment with AWS BeanStalk
