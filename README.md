@@ -7,5 +7,5 @@ https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/4447
 ## Build and Test with AWS CodeBuild
 https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/b6a1b15c-2737-4578-a71d-c0f9558fcda3
 ## Continuous Delivery - Manual Review
-
+https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/e0ad6073-3974-4986-babf-dd0da08433bc
 ## Deployment with AWS BeanStalk
