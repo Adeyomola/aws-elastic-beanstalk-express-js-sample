@@ -11,3 +11,4 @@ https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/4447
 ## Deployment with AWS BeanStalk
 https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/271df38c-a48b-441b-8fe9-3f383d83ebcb
 ## Web Page
+![Screenshot (282)](https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/14151c1c-a08b-4c55-87b5-53fcb2012363)
