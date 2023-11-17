@@ -3,7 +3,7 @@
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path. It also contains a buildspec for the same Node.js web app.
 
 ## Pipeline Automation with AWS CodePipeline
-https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/f81af8a1-a95e-4a0e-9c09-829bb68766d4
+https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/12a264aa-8637-4f84-a7ea-ced46e2f67e5
 ## Build and Test with AWS CodeBuild
 https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/b6a1b15c-2737-4578-a71d-c0f9558fcda3
 ## Continuous Delivery - Manual Review
