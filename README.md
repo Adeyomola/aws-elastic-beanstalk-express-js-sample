@@ -4,11 +4,8 @@ This repository contains a sample Node.js web application built using [Express](
 
 ## Pipeline Automation with AWS CodePipeline
 https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/f81af8a1-a95e-4a0e-9c09-829bb68766d4
-
-
-
 ## Build and Test with AWS CodeBuild
-
+https://github.com/Adeyomola/aws-elastic-beanstalk-express-js-sample/assets/44479277/b6a1b15c-2737-4578-a71d-c0f9558fcda3
 ## Continuous Delivery - Manual Review
 
 ## Deployment with AWS BeanStalk
